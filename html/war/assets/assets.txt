@@ -1,0 +1,13 @@
+d:assets:0:application/unknown
+a:rain.mp3:1013133:application/unknown
+a:drop.wav:121274:audio/x-wav
+i:bucket.png:5215:image/png
+i:droplet.png:4084:image/png
+t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:770:application/unknown
+t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5163:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:8948:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:870:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:2923:application/unknown
+t:com/badlogic/gdx/utils/arial-15.fnt:21743:application/unknown
+i:com/badlogic/gdx/utils/arial-15.png:21814:image/png
